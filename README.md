@@ -32,6 +32,16 @@ In Kelantan, the administrative hierarchy is unique compared to other Malaysian 
 ## 🛠 Contributions
 If you find any discrepancies in the boundaries or wish to contribute updated datasets:Fork the repository.Create a new branch (git checkout -b update-map).Commit your changes.Push to the branch and open a Pull Request.
 
-📜 LicenseThis data is shared for educational, research, and community planning purposes. Please refer to the LICENSE file in the root directory for specific terms of use.
+## ⚖️ Ethical Usage Policy
+This data is provided strictly for the betterment of humanity. By using these files, you agree to the following principles:
+
+Research & Education: Priority should be given to academic, urban planning, and environmental research.
+
+Humanitarian Good: Use these maps to aid in disaster relief, resource allocation, and community development.
+
+Prohibited Use: This data must NOT be used for any malicious activities, including but not limited to terrorism, illegal surveillance, or any actions that cause harm to the people of Kelantan or Malaysia.
+
+## 📜 License
+This data is shared for educational, research, and community planning purposes. Please refer to the LICENSE file in the root directory for specific terms of use.
 
 ### Maintained by: Dr azusa
