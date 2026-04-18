@@ -1,2 +1,3 @@
-# Map-files-in-Kelantan
-Provide maps shapefile of Kelantan state and its District until to sub-district level
+# Map files in Kelantan, Malaysia
+
+This repository is used to share map files (shapefiles) for Kelantan state in Malaysia, including district and sub-district boundaries.
